@@ -14,22 +14,26 @@ ol, ul {
 }
 
 .status {
+  font-weight: bold ;
   margin-bottom: 10px;
+  color: #474fe5;
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #e8e1b0;
+  border: 2px solid #999;
+  border-color:#0e1623;
   float: left;
-  font-size: 24px;
+  color: #700431;
+  font-size: 30px;
   font-weight: bold;
-  line-height: 34px;
-  height: 34px;
+  line-height: 50px;
+  height: 50px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 50px;
 }
 
 .square:focus{
